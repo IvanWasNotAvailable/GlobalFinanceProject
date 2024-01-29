@@ -1,6 +1,6 @@
-# PrescriptiveAnalytics_StockPricePrediction
+# GlobalFinanceProject_StockPricePrediction
 
-This repository contains the implementation of the thesis titled "Stock Price Prediction using Twitter Sentiment Analysis An Input-Process-Output Model Approach". The implementation is organized into multiple Jupyter notebooks, each focusing on a specific aspect of the thesis.
+This repository contains the implementation of the thesis titled "Stock Price Prediction using Twitter Sentiment Analysis An Input-Process-Output Model Approach". The implementation is organized into multiple Jupyter notebooks, each focusing on a specific aspect of the thesis. We decided to use the word Twitter instead of the new company name "X" in the repository for better understanding.
 
 ## Table of Contents
 
@@ -52,4 +52,4 @@ The notebook will display the predicted sentiment (positive or negative) for the
 ##### Ensure that you have the necessary dependencies installed and the required datasets or APIs are accessible for the program to run smoothly.
 
 ## Contact 
-For any inquiries or feedback, please contact is52@students.uwf.edu.
+For any inquiries or feedback, please contact ivan.sachau@studmail.hwg-lu.de
